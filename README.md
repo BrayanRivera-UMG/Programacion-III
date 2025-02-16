@@ -1,4 +1,6 @@
 # Tarea01 Listas Enlazadas
+## Brayan Kenet Rivera Quinilla 
+## 9490-23-2835
 
 # 1. Definición de la Clase Nodo
 Cada nodo almacena un nombre, apellido y carnet. También tiene punteros siguiente y anterior.
