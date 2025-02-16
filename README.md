@@ -1,6 +1,6 @@
 # Tarea01
 
-###### 1. Definición de la Clase Nodo
+# 1. Definición de la Clase Nodo
 Cada nodo almacena un nombre, apellido y carnet. También tiene punteros siguiente y anterior.
 class Nodo {
     constructor(nombre, apellido, carnet) {
@@ -12,10 +12,10 @@ class Nodo {
     }
 }
 
-###### 2. Clase ListaDoblementeEnlazada
+## 2. Clase ListaDoblementeEnlazada
 Esta clase maneja la lista doblemente enlazada.
 
-###### 2.1. Insertar al principio
+## 2.1. Insertar al principio
 Si la lista está vacía, el nuevo nodo se convierte en cabeza y cola. Si no, el nodo nuevo se enlaza al inicio.
 
 insertar_al_principio(nombre, apellido, carnet) {
@@ -29,7 +29,7 @@ insertar_al_principio(nombre, apellido, carnet) {
     }
 }
 
-###### 2.2. Insertar al final
+## 2.2. Insertar al final
 Si la lista está vacía, se asigna el nodo como cabeza y cola. De lo contrario, se enlaza al final.
 
 insertar_al_final(nombre, apellido, carnet) {
@@ -43,7 +43,7 @@ insertar_al_final(nombre, apellido, carnet) {
     }
 }
 
-###### 2.3. Eliminar por valor (carnet)
+## 2.3. Eliminar por valor (carnet)
 Busca el nodo con el carnet especificado y lo elimina ajustando los punteros.
 
 eliminar_por_valor(carnet) {
@@ -68,7 +68,7 @@ eliminar_por_valor(carnet) {
     console.log("Nodo no encontrado.");
 }
 
-###### 3. Menú de Opciones
+## 3. Menú de Opciones
 El usuario interactúa con la lista a través de un menú
 menu() {
     let lista = new ListaDoblementeEnlazada();
