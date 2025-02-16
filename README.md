@@ -1,4 +1,4 @@
-# Tarea01
+# Tarea01 Listas Enlazadas
 
 # 1. Definición de la Clase Nodo
 Cada nodo almacena un nombre, apellido y carnet. También tiene punteros siguiente y anterior.
