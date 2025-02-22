@@ -1,4 +1,4 @@
-# Tarea01 Listas Enlazadas
+# Tarea 01 Listas Enlazadas
 ## Brayan Kenet Rivera Quinilla 
 ## 9490-23-2835
 
