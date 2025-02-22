@@ -13,5 +13,8 @@ esta funcion convierte un numero entero a numero binario
     return convertir_a_binario(numero // 2) + str(numero % 2)
   
   ```
-
+| First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
 
