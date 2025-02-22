@@ -25,7 +25,7 @@ Cuenta la cantidad de digitos en un numero entero
   ```
 ### 3. Calculo de la raiz cuadrada entera
 #### Esta parte se divide en dos funciones
-- A. Usa una busquedda binaria para encontrar la raiz cuadrada entera del numero
+- A. Usa una busqueda binaria para encontrar la raiz cuadrada entera del numero
   ```Python
   def calcular_raiz_cuadrada(numero, bajo, alto):
     if bajo > alto:
