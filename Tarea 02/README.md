@@ -72,7 +72,7 @@ Cuenta la cantidad de digitos en un numero entero
 
   ```
 ### 6. Limpiar la Pantalla
-- Explicacion: limpa la consola, al seleccionar una de las opciones
+- Explicacion: limpia la consola, al seleccionar una de las opciones
   ```Python
   def limpiar_pantalla():
     os.system('cls' if os.name == 'nt' else 'clear')
