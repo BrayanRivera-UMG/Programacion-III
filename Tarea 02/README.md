@@ -5,7 +5,7 @@
 ### 1. Conversion a Binario
 esta funcion convierte un numero entero a numero binario
 - Explicacion:
-  si el numero es menor que 2, lo devuelve como cadena, de lo contrario, divide el numero por 2 y concatena el residui, generando la representacion binaria
+  si el numero es menor que 2, lo devuelve como cadena, de lo contrario, divide el numero por 2 y concatena el residuo, generando la representacion binaria
   ```Python
   def convertir_a_binario(numero):
     if numero < 2:
