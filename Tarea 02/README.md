@@ -24,7 +24,29 @@ Cuenta la cantidad de digitos en un numero entero
     return 1 + contar_digitos(numero // 10)
   ```
 ### 3. Calculo de la raiz cuadrada entera
-- #### Esta parte se divide en dos funciones 
+#### Esta parte se divide en dos funciones
+- A. Usa una busquedda binaria para encontrar la raiz cuadrada entera del numero
+  ```Python
+  def calcular_raiz_cuadrada(numero, bajo, alto):
+    if bajo > alto:
+        return alto
+    medio = (bajo + alto) // 2
+    if medio * medio == numero:
+        return medio
+    elif medio * medio < numero:
+        return calcular_raiz_cuadrada(numero, medio + 1, alto)
+    else:
+        return calcular_raiz_cuadrada(numero, bajo, medio - 1)
+
+  ```
+- B. verifica que el numero no sea negativo y llama a la funcion secundaria
+  ```Python
+  def raiz_cuadrada_entera(numero):
+    if numero < 0:
+        return "No se puede calcular la raiz cuadrada de un numero negativo"
+    return calcular_raiz_cuadrada(numero, 0, numero)
+
+  ```
 ### 4. Conversion de numeros romanos a decimales
 ### 5. Suma de numeros enteros
 ### 6. Limpiar la Pantalla
