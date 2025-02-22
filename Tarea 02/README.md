@@ -4,6 +4,6 @@
 
 ### 1. Conversion a Binario
 esta funcion convierte un numero entero a numero binario
-- 
+- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 explicacion
 
