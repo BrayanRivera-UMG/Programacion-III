@@ -4,6 +4,6 @@
 
 ### 1. Conversion a Binario
 esta funcion convierte un numero entero a numero binario
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-explicacion
+- explicacion:
+  Si el numero es menor que 2, lo devuelve como cadena, de lo contrario, divide el numero por 2 y concatena el residui, generando la representacion binaria
 
