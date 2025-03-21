@@ -124,7 +124,7 @@ class Nodo:
         return True
   ```
 
-### Funciones del Menu
+# 3. Funciones del Menu
 - Limpieza de pantalla
   
   ```Python
