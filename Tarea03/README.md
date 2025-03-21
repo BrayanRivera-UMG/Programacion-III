@@ -33,6 +33,7 @@
 > Da una visualizacion del arbol
 6. Mostrar arbol
     - Muestra la visualizacion del arbol si hubo algun tipo de cambio
+    - No volvera a mostrar el arbol si no se le ha hecho algun tipo de cambio
 
 > [!CAUTION]
 > Da la opcion de borrar por completo el arbol
