@@ -22,7 +22,7 @@
 > [!IMPORTANT]
 > Al momento de copiar la ruta, poner nombre de archivo con su respectiva extencion `.CSV`
 4. Cargar desde archivo CSV
-    - En este caso, el archivo lo tenia en el escritorio: `C:\Users\bkriv\Desktop`, luego de esto pongo el nombre del archivo: `numeros_100`, para despues poner su extencion: `.csv`. tendria que quedar algo asi: `C:\User\bkriv\Desktop\numeros_100.csv`, para que el programa lo encuentre y pueda leer los datos y armar el arbol para su posterior visualizacion
+    - En este caso, el archivo lo tenia en el escritorio: `C:\Users\bkriv\Desktop`, luego de esto pongo el nombre del archivo: `numeros_100`, para despues poner su extencion: `.csv`. tendria que quedar algo asi: `C:\User\bkriv\Desktop\numeros_100.csv`, para que el programa lo encuentre, pueda leer los datos y armar el arbol para su posterior visualizacion
 
 > [!NOTE]
 > Hace el recorrido en InOrden
