@@ -12,12 +12,14 @@
 > [!NOTE]
 > Solo se permiten ingresar datos enteros
 2. Buscar valor
-    - Busca un valor que se encuentre en el arbol y devuelve `True` si lo encuentra
+    - Busca un valor que se encuentre en el arbol
+    - Si el valor no se encuentra en el arbol dara un mensaje que no se encuentra y regresara al menu
 
 > [!NOTE]
 > Aplica 1 de los 3 casos de las reglas: nodo hoja, nodo con un solo hijo, nodo con dos hijos
 3. Eliminar valor
-    - Se tiene una funcion auxiliar para eliminar recursivamente, aplicando los 3 casos de las reglas de ABB
+    - Ingrese algun valor que quiera eliminar del arbol
+    - Si no esta ese valor dara un mensaje que el valor deseado no se encuentra en el arbol y regresara al menu
 
 > [!IMPORTANT]
 > Al momento de copiar la ruta, poner nombre de archivo con su respectiva extencion `.CSV`
@@ -38,7 +40,9 @@
 > [!CAUTION]
 > Da la opcion de borrar por completo el arbol
 7. Borrar todo el arbol
-    - Deja borrar por completo el arbol, presionando `s` que si quiere borrar o `n` que no se quiere borrar
+    - Deja borrar por completo el arbol
+        - Presione `s` si se quiere borrar por completo el arbol
+        - Presione `n` si no se quiere borrar el arbol por completo
 
 > [!NOTE]
 > Cierra el programa
