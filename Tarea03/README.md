@@ -37,7 +37,8 @@
 
 > [!CAUTION]
 > Da la opcion de borrar por completo el arbol
-7. Deja borrar todo el arbol, presionando `s` que si quiere borrar o `n` que no se quiere borrar
+7. Borrar todo el arbol
+    - Deja borrar por completo el arbol, presionando `s` que si quiere borrar o `n` que no se quiere borrar
 
 > [!NOTE]
 > Cierra el programa
