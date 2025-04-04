@@ -72,7 +72,7 @@ class Nodo:
 ### Metodos Principales
 #### Insertar un valor
 - Si el arbol esta vacio, el nuevo valor se convierte en la raiz
-- si ya hay nodos, se colo en la posicion correcta segun la reglas del ABB
+- si ya hay nodos, se coloca en la posicion correcta segun la reglas del ABB
   
   ```Python
   def insertar(self, valor):
