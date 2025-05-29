@@ -325,6 +325,7 @@ def visualize_btree(btree):
 ![Image](https://github.com/user-attachments/assets/be1a916f-6578-4823-96b0-513f526bf6e4)
 ![Image](https://github.com/user-attachments/assets/67f6f479-3a2b-440b-a6a9-9b9576d11714)
 
-
+### Imagen de como esta armado el `Arbol B`
+![Image](https://github.com/user-attachments/assets/94691018-0113-4c00-8528-604be73023a2)
 
 
