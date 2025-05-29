@@ -217,11 +217,11 @@ Ejemplo:
 ```json
 {
   "Identificador": "191",
-  "Nombre": "Museo Nacional",
+  "Nombre": "El Quetzal",
   "Tipo": "Turístico",
-  "Latitud": -34.6,
-  "Longitud": -58.4,
-  "Precio": 15,
+  "Latitud": 14.7667,
+  "Longitud": -91.8167,
+  "Precio": 100,
   "Calificaiones promedio": 4.7,
   "Tiempo estimado de estadia": 1.5
 }
